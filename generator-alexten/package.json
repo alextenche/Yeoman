@@ -1,0 +1,17 @@
+{
+  "name": "generator-alexten",
+  "version": "0.0.1",
+  "description": "custom generator for yeoman tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Tenche",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^0.20.1"
+  },
+  "files": [
+    "app"
+  ]
+}
